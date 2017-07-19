@@ -19,7 +19,7 @@ if boundaries in ('y', 'yes', 'ye', 'ya', 'Yes', 'YES', 'Y', 'YEs'):
 else:
     pass
     
-TotalPoints = input("\nHow many chromaticity points would you like plotted: ")
+TotalPoints = input("\nHow many chromaticity points would you like to plot: ")
 
 TitleList = []
 Xchrom = []
